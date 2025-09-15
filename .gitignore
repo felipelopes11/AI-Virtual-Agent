@@ -1,0 +1,10 @@
+# Configurações do Editor
+.vscode/
+
+# Ficheiros de Ambiente (NUNCA envie segredos!)
+.env
+*.env
+
+# Ficheiros de Sistema Operacional
+.DS_Store
+Thumbs.db

@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+langchain
+langchain-community
+ollama
+chromadb
+pandas
+langchain-ollama
